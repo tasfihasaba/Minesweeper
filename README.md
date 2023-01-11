@@ -12,6 +12,10 @@ The neighborhood for a location includes the location itself and its eight adjac
 In the returned grid, each value will be a number from 0 to 9. 
 
 
+
+https://user-images.githubusercontent.com/77076887/211911803-c2cd51c9-07a4-4e18-aa7e-9d2e18e2878b.mp4
+
+
 If passed the boolean grid on the left, createCountGrid() returns the grid of int values on the right:
 
 Here are the example grids:
